@@ -3,4 +3,4 @@ Este repositório hospeda um aplicativo de simulação de operadores lógicos ( 
 ##Autor 
 Caio Castro
 
-![qrcode]()
+![qrcode](https://github.com/caiocastroo/simulator/blob/main/img/qrcode.png)
